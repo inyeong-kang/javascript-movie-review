@@ -276,7 +276,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
   \*****************************/
 /***/ (function(module, __unused_webpack_exports, __webpack_require__) {
 
-eval("module.exports = __webpack_require__.p + \"2e162b4fefb34cd7ed8d.png\";\n\n//# sourceURL=webpack://javascript-movie-review/./src/assets/logo.png?");
+eval("module.exports = __webpack_require__.p + \"./2e162b4fefb34cd7ed8d.png\";\n\n//# sourceURL=webpack://javascript-movie-review/./src/assets/logo.png?");
 
 /***/ }),
 
@@ -286,7 +286,7 @@ eval("module.exports = __webpack_require__.p + \"2e162b4fefb34cd7ed8d.png\";\n\n
   \**************************************/
 /***/ (function(module, __unused_webpack_exports, __webpack_require__) {
 
-eval("module.exports = __webpack_require__.p + \"f1bd4269f4446ceae306.png\";\n\n//# sourceURL=webpack://javascript-movie-review/./src/assets/search_button.png?");
+eval("module.exports = __webpack_require__.p + \"./f1bd4269f4446ceae306.png\";\n\n//# sourceURL=webpack://javascript-movie-review/./src/assets/search_button.png?");
 
 /***/ }),
 
@@ -306,7 +306,7 @@ eval("module.exports = __webpack_require__.p + \"6c9611deedf4b85849c9.png\";\n\n
   \************************************/
 /***/ (function(module, __unused_webpack_exports, __webpack_require__) {
 
-eval("module.exports = __webpack_require__.p + \"6328741810b732410eec.png\";\n\n//# sourceURL=webpack://javascript-movie-review/./src/assets/star_filled.png?");
+eval("module.exports = __webpack_require__.p + \"./6328741810b732410eec.png\";\n\n//# sourceURL=webpack://javascript-movie-review/./src/assets/star_filled.png?");
 
 /***/ })
 
