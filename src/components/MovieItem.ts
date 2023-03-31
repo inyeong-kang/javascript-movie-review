@@ -12,7 +12,7 @@ export function MovieItem({ id, poster_path, title, vote_average }: IMovie) {
             class="item-thumbnail"
             src=${makeImagePath(poster_path)}
             loading="lazy"
-            alt=${title}
+            alt="${title}"
             id=${id}
             />
             <p class="item-title" id=${id}>${title}</p>
